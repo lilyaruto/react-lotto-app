@@ -6,6 +6,7 @@
     height: 50px;
     border-radius: 50%;
     background-color: orange;
+    border: 2px solid black;
 }
 
 .ball_container:not(:last-child) {
